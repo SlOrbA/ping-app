@@ -4,6 +4,10 @@
 	"description": "Application to test http connection",
 	"author": "Lari Korpi <lari.korpi@iki.fi>",
 	"main": "ping-app.js",
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/slorba/ping-app.git"
+	},
 	"scripts": {
 		"start": "node ping-app.js"
 	},
